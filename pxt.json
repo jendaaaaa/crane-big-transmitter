@@ -1,5 +1,5 @@
 {
-    "name": "test-crane-big-transmitter",
+    "name": "crane-big-transmitter",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.18",
+        "target": "6.0.26",
         "targetId": "microbit"
     },
     "supportedTargets": [
