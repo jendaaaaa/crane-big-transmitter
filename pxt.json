@@ -1,5 +1,5 @@
 {
-    "name": "crane-big-transmitter",
+    "name": "crane-TX",
     "description": "",
     "dependencies": {
         "core": "*",
